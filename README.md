@@ -1,4 +1,4 @@
-# Paperly-Eccomerce-Website
+# Paperly-Eccomerce-Platform
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
@@ -15,7 +15,7 @@
 
 ## Description
 
-Paperly-Eccomerce-Website — a frontend web app built with .NET, JavaScript, React, Vite.
+Paperly-Eccomerce-Platform — a frontend web app built with .NET, JavaScript, React, Vite.
 
 ## Tech Stack
 
